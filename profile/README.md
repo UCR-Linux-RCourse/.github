@@ -81,16 +81,16 @@ Kerrisk, M. (n.d.). Linux manual pages: Alphabetic list of all pages. https://ma
 # WEEKLY SCHEDULE: 
 | Date | Workshop Topics | Required Readings and Resources | Assignments Due |
 | :---- | :---- | :---- | :---- |
-| **Week 1** | Course Overview and History of Linux | Bash reference manual [\[1\]](#bookmark=id.mty6epeo8rqr) |  |
-| **Week 2** | Introduction to the Command Line | The Linux Command Line for Beginners  [\[3\]](#bookmark=id.afxyqa8sn5qu) | In-Class Exercise 1 \- Setting up a Codespace Quiz 1 |
-| **Week 3** | Basic File and Directory Operations | 4\. Creating folders and files [\[3\]](#bookmark=id.afxyqa8sn5qu)5\. Moving and manipulating files [\[3\]](#bookmark=id.afxyqa8sn5qu) | Lab 1 \- Basic Command Line Operations Quiz 2 In-Class Exercise 2 |
-| **Week 4** | Text Manipulation | Text processing (using SED & AWK). \[4\] | Lab 2 \- Managing Files and Directories Quiz 3 In-Class Exercise 3 |
-| **Week 5** | Pipes and Redirects | A bit of plumbing [\[3\]](#bookmark=id.afxyqa8sn5qu) Redirections [\[1\]](#bookmark=id.mty6epeo8rqr) | Lab 3 \- Grep, Sed, Awk Quiz 4 In-Class Exercise 4 |
-| **Week 6** | BASH Scripting Part 1 | Shell Commands [\[1\]](#bookmark=id.mty6epeo8rqr) Shell Functions [\[1\]](#bookmark=id.mty6epeo8rqr) | Lab 4 \- I/O Quiz 5 In-class Exercise 5 |
-| **Week 7** | BASH Scripting Part 2 | Bash reference manual [\[1\]](#bookmark=id.mty6epeo8rqr) Lists of Commands [\[1\]](#bookmark=id.mty6epeo8rqr)Compound Commands [\[1\]](#bookmark=id.mty6epeo8rqr)  | Quiz 6 In-class Exercise 6 |
-| **Week 8** | Process Management | Commands for Process Management in Linux [\[5\]](#bookmark=id.7qgaq04zbio3) | Lab 5 \- Bash  Quiz 7 In-class Exercise 7 |
-| **Week 9** | Maintaining Your System. | Keeping your linux system up-to-date with apt [\[6\]](#bookmark=id.vc5h7et9f91y) Package management [\[7\]](#bookmark=id.6anmvjmeues1) | Lab 6 Quiz 8 In-Class Exercise 8 |
-| **Week 10** | Docker and SSH | Get started | Docker  [\[8\]](#bookmark=id.eqysxsjlb3uu) | Lab 7 Quiz 9 In-Class Exercise 9 |
+| **Week 1** | Course Overview and History of Linux | Bash reference manual  |  |
+| **Week 2** | Introduction to the Command Line | The Linux Command Line for Beginners   | In-Class Exercise 1 \- Setting up a Codespace Quiz 1 |
+| **Week 3** | Basic File and Directory Operations | 4\. Creating folders and files  | Lab 1 \- Basic Command Line Operations Quiz 2 In-Class Exercise 2 |
+| **Week 4** | Text Manipulation | Text processing (using SED & AWK).  | Lab 2 \- Managing Files and Directories Quiz 3 In-Class Exercise 3 |
+| **Week 5** | Pipes and Redirects | A bit of plumbing  | Lab 3 \- Grep, Sed, Awk Quiz 4 In-Class Exercise 4 |
+| **Week 6** | BASH Scripting Part 1 | Shell Commands  | Lab 4 \- I/O Quiz 5 In-class Exercise 5 |
+| **Week 7** | BASH Scripting Part 2 | Bash reference manual   | Quiz 6 In-class Exercise 6 |
+| **Week 8** | Process Management | Commands for Process Management in Linux  | Lab 5 \- Bash  Quiz 7 In-class Exercise 7 |
+| **Week 9** | Maintaining Your System. | Keeping your linux system up-to-date with apt  | Lab 6 Quiz 8 In-Class Exercise 8 |
+| **Week 10** | Docker and SSH | Get started | Docker   | Lab 7 Quiz 9 In-Class Exercise 9 |
 
 # ACADEMIC ACCOMMODATIONS
 
